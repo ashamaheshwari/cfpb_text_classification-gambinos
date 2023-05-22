@@ -9,4 +9,5 @@ At the end of the project, your team should should prepare a short presentation 
 * What did you find based on your exploratory analysis?
 * What models did you try and how successful were they? Where did they struggle? Were there issues that the models commonly mixed up?
 
+
 **Bonus:** A larger dataset containing 20 additional categories can be downloaded from https://drive.google.com/file/d/1gW6LScUL-Z7mH6gUZn-1aNzm4p4CvtpL/view?usp=share_link. How well do your models work with these additional categories?
